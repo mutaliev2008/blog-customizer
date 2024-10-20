@@ -15,7 +15,7 @@ export const ArrowButtonStory: Story = {
 			<>
 				<ArrowButton
 					onClick={() => {
-						console.log('wvw');
+						console.log('Hello');
 					}}
 					isOpen={false}
 				/>
